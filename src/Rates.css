@@ -1,0 +1,16 @@
+.Rates {
+    background: lightgray;
+    border-radius: 25px;
+    padding: 10px;
+    text-align: center;
+    display: inline-block;
+    margin: 15px;
+  
+}
+
+.Rates-cell {
+  float: left;
+  font-size: 10px;
+  width: 19.33%;
+  
+}

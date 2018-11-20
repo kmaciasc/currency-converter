@@ -1,0 +1,43 @@
+.Converter {
+  margin-top: 120px;
+  text-align: center;
+}
+.Converter-label-container {
+  width: 500px;
+  display: inline-block;
+}
+
+.Converter-info {
+  font-size: 20px;
+  height: 35px;
+  width: 120px;
+}
+
+.Converter-button {
+  background-color: white;
+  border-radius: 5px;
+  font-size: 15px;
+  height: 35px;
+  margin: 25px 25px;
+  width: 100px;
+}
+
+.Converter-label {
+  font-size: 20px;
+  height: 35px;
+  margin-right: 5px;
+}
+
+.Converter-resuwlt {
+  font-size: 20px;
+  height: 35px;
+  width: 200px;
+  margin-top: 20px;
+}
+
+.Converter-label-selector {
+  display: inline-block;
+  font: 15px;
+  text-align: center;
+  width: 50%;
+}
